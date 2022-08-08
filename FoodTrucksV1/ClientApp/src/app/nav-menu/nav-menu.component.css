@@ -1,0 +1,33 @@
+a.navbar-brand {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+.claseColor{
+  background-color: rgb(255, 222, 89);
+
+}
+
+.bg-white{
+  background-color: rgb(255, 222, 89);
+
+}
+html {
+  font-size: 14px;
+}
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+@media (min-width: 768px) {
+  .container {
+    flex-direction: column;
+  }
+}
+
+.box-shadow {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
